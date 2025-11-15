@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a passionate Full-Stack Developer who loves turning ideas into clean, efficient, and user-friendly digital experiences. With a strong foundation in JavaScript, HTML, CSS, and modern frameworks, I enjoy building everything from intuitive front-ends to solid back-end architectures.<br><br>Curiosity drives me I’m always exploring new tools, improving my craft, and bringing creative solutions to real-world problems. Whether it’s crafting a smooth UI, optimizing an API, or launching a new side project, I’m all about building things that people actually enjoy using.<br><br>When I’m not coding, I’m brainstorming new product ideas, learning something new, or working on personal projects that sharpen my skills and keep me inspired.<br><br>Always learning. Always building. Always improving.
+I’m a full-stack developer who loves bringing ideas to life through clean, practical, and user-friendly experiences. I work with JavaScript, HTML, CSS, and modern frameworks to build everything from smooth, intuitive front-ends to reliable back-end systems.
+
+I’m naturally curious, so I’m always learning new tools, exploring fresh ideas, and finding better ways to solve real problems. Whether I’m polishing a UI, improving an API, or launching a fun side project, I focus on creating things that feel good to use and actually make a difference.
+
+When I’m not coding, you’ll find me brainstorming product concepts, leveling up my skills, or experimenting with personal projects that keep me inspired and motivated.
+
+Always learning, always creating, and always growing.
 
 
 ## 🌐 Socials:
